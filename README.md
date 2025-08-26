@@ -12,7 +12,7 @@ gera_binario.c → Gera arquivos binários de teste com vetores aleatórios e re
 timer.h → Header que fornece macro GET_TIME para medição de tempo.
 
 ## Como Compilar
-'''bash
+'''C
 gcc binario.c -o binario.exe
 .\binario.exe arquivo.bin 1000 #dimensão do vetor. mude de acordo com a necessidade)
 .\Produto_Interno.exe arquivo.bin 4 (n de threads. mude de acordo com a necessidade)
